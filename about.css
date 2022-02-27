@@ -1,0 +1,158 @@
+body {
+  background-color: rgb(2, 31, 2);
+}
+li {
+  list-style: none;
+}
+.nav-wrap {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.about-wrap {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+.like-wrap {
+  margin-bottom: 100px;
+}
+.goal-wrap {
+  margin-bottom: 100px;
+}
+.contack-wrap {
+  margin-top: 50px;
+}
+.hi {
+  margin-top: 20px;
+  padding-left: 30px;
+  color: aliceblue;
+  font-size: 50px;
+  font-weight: bold;
+}
+.list-wrap {
+  list-style: none;
+  padding-right: 30px;
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.a {
+  margin-bottom: 5px;
+  color: rgb(176, 238, 217);
+  font-size: 10px;
+  padding-right: 30px;
+}
+.my-photo {
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+}
+.leftabout {
+  color: rgb(176, 238, 217);
+  padding-left: 30px;
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: oblique;
+  font-size: 30px;
+}
+.name {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 30px;
+}
+.mbti {
+  color: rgb(120, 243, 202);
+
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.passion {
+  color: rgb(120, 243, 202);
+  display: flex;
+  justify-content: center;
+}
+.leftlike {
+  color: rgb(176, 238, 217);
+  padding-left: 30px;
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: oblique;
+  font-size: 30px;
+}
+.travel-photo {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+.exercise-photo {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+.friend-photo {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+.like-box {
+  display: flex;
+  justify-content: center;
+}
+.travel-ment {
+  color: rgb(120, 243, 202);
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.exercise-ment {
+  color: rgb(120, 243, 202);
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.friend-ment {
+  color: rgb(120, 243, 202);
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.travel-list {
+  padding-right: 100px;
+}
+.leftgoal {
+  color: rgb(176, 238, 217);
+  padding-left: 30px;
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: oblique;
+  font-size: 30px;
+}
+.insta {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 10px 0 0 10px;
+}
+.content {
+  display: flex;
+}
+.goal-ment {
+  color: rgb(120, 243, 202);
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
